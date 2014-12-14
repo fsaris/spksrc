@@ -25,6 +25,10 @@ Lets start with an example::
     make setup
     cd spk/transmission
     make arch-88f6281
+    
+Or if you want to build for a certain firmware:
+
+    make arch-[architecture]-[firmware-version]
 
 What have I done?
 ^^^^^^^^^^^^^^^^^
